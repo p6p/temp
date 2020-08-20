@@ -1,10 +1,2 @@
 file /content/temp/LocallySourced-JasonFarnham.mp3
 file /content/temp/GeminiRobot-BirdCreek.mp3
-file /content/temp/LlenadePlena-JimmyFontanez_MediaRightProductions.mp3
-file /content/temp/LesToreadorsfromCarmen(byBizet)-Bizet.mp3
-file /content/temp/WorldMap-JasonFarnham.mp3
-file /content/temp/Trimmed&Taught-DanLebowitz.mp3
-file /content/temp/MidsummerNightsDream(byMendelssohn)-Mendelssohn.mp3
-file /content/temp/hqdefault_live.jpg
-file /content/temp/SavannahSunshine-DanHenig.mp3
-file /content/temp/NightVision-BirdCreek.mp3
